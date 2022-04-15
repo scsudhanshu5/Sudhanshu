@@ -1,2 +1,2 @@
-# Sudhanshu
-For practice
+
+Sata Structure and Algorithms
